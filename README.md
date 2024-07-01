@@ -1,8 +1,15 @@
-# React + Vite
+# ResultForm Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The ResultForm component is a React form designed to input subject marks, calculate percentage and grade based on marks, and display failure messages for subjects with marks below passing grade.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The ResultForm component allows users to input marks for various subjects, calculates the overall percentage and grade, and displays a failure message if any subject's marks are below the passing grade.
+
+## Usage
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/result-form-react.git
+   cd result-form-react
