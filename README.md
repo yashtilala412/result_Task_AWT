@@ -11,5 +11,5 @@ The ResultForm component allows users to input marks for various subjects, calcu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/result-form-react.git
+   git clone https://github.com/yashtilala412/result_Task_AWT.git
    cd result-form-react
